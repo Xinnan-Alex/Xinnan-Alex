@@ -15,6 +15,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinnan-Alex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 21 October 2022 - To: 31 October 2022
+
+Total Time: 45 hrs
+
+Other      44 hrs 56 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.85 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
