@@ -17,11 +17,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2022 - To: 09 December 2022
+From: 21 October 2022 - To: 10 December 2022
 
-Total Time: 133 hrs 42 mins
+Total Time: 134 hrs 43 mins
 
-Other        121 hrs 31 mins >>>>>>>>>>>>>>>>>>>>>>>--   90.90 %
+Other        121 hrs 31 mins >>>>>>>>>>>>>>>>>>>>>>>--   90.20 %
 ```
 
 <!--END_SECTION:waka-->
