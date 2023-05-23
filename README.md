@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 October 2022 - To: 20 May 2023
+From: 21 October 2022 - To: 21 May 2023
 
-Total Time: 254 hrs 11 mins
+Total Time: 255 hrs 35 mins
 
-Other        222 hrs 20 mins >>>>>>>>>>>>>>>>>>>>>>---   87.47 %
-Python       21 hrs 54 mins  >>-----------------------   08.62 %
-JSON         2 hrs 58 mins   -------------------------   01.17 %
-Text         2 hrs 5 mins    -------------------------   00.83 %
+Other        222 hrs 20 mins >>>>>>>>>>>>>>>>>>>>>>---   86.99 %
+Python       23 hrs 17 mins  >>-----------------------   09.11 %
+JSON         2 hrs 59 mins   -------------------------   01.17 %
+Text         2 hrs 6 mins    -------------------------   00.82 %
 Rust         1 hr 14 mins    -------------------------   00.49 %
 ```
 
