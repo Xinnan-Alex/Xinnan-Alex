@@ -1,7 +1,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&duration=2000&pause=1000&color=09F6F7&multiline=true&width=435&height=70&lines=Hello+world%2C+My+name+is+Alex.;I+am+a+third+year+student+from+MMU.)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🌱 I’m currently learning Golang, Microservices and AWS<br>⚡ Fun fact I love to listen to Joji and Seventeen! ![](https://e7.pngegg.com/pngimages/655/444/png-clipart-black-triangle-logo-going-seventeen-pledis-entertainment-k-pop-very-nice-seventeen-miscellaneous-angle.png)
+🌱 I’m currently learning Golang, Microservices and AWS<br>⚡ Fun fact I love to listen to Joji and Seventeen!
 
 
 ## 🌐 Socials:
