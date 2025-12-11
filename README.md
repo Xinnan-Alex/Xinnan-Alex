@@ -1,4 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=25&duration=2000&pause=1000&color=09F6F7&multiline=true&width=435&height=70&lines=Hello+world%2C+My+name+is+Alex.;I+am+a+Fund+Risk+Java+Developer+At+Ant+International.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+My+Name+is+Alex;Working+as+Fund+Risk+Java+Developer;at+Ant+International)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌱 I’m currently learning Golang, Microservices and AWS<br>⚡ Fun fact I love to listen to Joji and Seventeen!
